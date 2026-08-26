@@ -1,6 +1,6 @@
 {
-  "serverHost": "example.aternos.me",
-  "serverPort": 12345,
+  "serverHost": "Doomsmp-eQ2T.aternos.me",
+  "serverPort": 21443,
   "botUsername": "MyBot",
   "botChunk": 1
 }
